@@ -1,2 +1,2 @@
-alias tf='terraform'
+alias tf='tofu'
 alias k='kubernetes'
